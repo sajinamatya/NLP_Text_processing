@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author prithivi
+ * @author sajin
  */
 public class SortingPractice extends javax.swing.JFrame {
 

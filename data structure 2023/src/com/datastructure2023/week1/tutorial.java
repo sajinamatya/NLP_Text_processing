@@ -28,7 +28,7 @@ public class tutorial {
         String plays = play.next();
        
         if("Y".equalsIgnoreCase(plays)){
-            // generating the random number 
+            // generating the random numbers
             
             Random random = new Random();
             int rand1 = random.nextInt((playerr - 1) + 1 ) + 1 ;

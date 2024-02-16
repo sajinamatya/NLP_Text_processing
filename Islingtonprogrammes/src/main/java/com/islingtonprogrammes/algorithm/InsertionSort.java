@@ -21,7 +21,7 @@ public class InsertionSort {
             // to one position ahead of their current position
             while (j >= 0 && arr[j].getSno() > key.getSno()) {
                 arr[j + 1] = arr[j];
-                j = j - 1;
+                j = j - 1; // decrement of j 
             }
             arr[j + 1] = key;
         }

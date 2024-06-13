@@ -1,1 +1,1 @@
-Text pre processing : Text cleaning, Text analysis, Text tokenization, Text Stemming and Lemmatization, Text normalization 
+Text pre processing : Text cleaning, Text analysis, Text tokenization, Text Stemming and Lemmatization, Text normalization , Name Entity recognization 
